@@ -10,10 +10,10 @@ for line in lines:
 
 f.close()
 
-#file=open('Bio.txt')
+#file=open('Bio.txt',r)
 #linea=0
 #for line in file
 	#if linea % 2 == 0:
 		#print line
 
-#close('Bio.txt')
+#file.close()
