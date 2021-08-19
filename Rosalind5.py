@@ -9,3 +9,11 @@ for line in lines:
 		print i, ":", line
 
 f.close()
+
+#file=open('Bio.txt')
+#linea=0
+#for line in file
+	#if linea % 2 == 0:
+		#print line
+
+#close('Bio.txt')
